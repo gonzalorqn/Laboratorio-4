@@ -1,0 +1,20 @@
+npm init
+npm i [paquete]
+
+npm install -g @angular/cli
+ng new nombre
+cd nombre
+ng serve --open
+
+ng g component componentes/nombre
+
+ng g class clases/nombre
+
+ng g service services/nombre
+
+ng g module app-routing --flat --module=app //si no puse ruteo al crear proyecto
+
+
+angular routing SI
+
+agm google maps
